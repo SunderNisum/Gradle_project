@@ -14,6 +14,7 @@ public class HelloGradleController {
 	 * This should be going through merge
 	 * This is should be reset with head
 	 * This is done using master
+	 * This is to check if .class file will ignored
 	 * This is done with the UI
 	 * Need to check if this will be there
 	 * This is to use stash memory

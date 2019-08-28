@@ -1,6 +1,3 @@
-# Ignore Gradle project-specific cache directory
-.gradle
+#Below is the command to ignore
+*.class
 
-# Ignore Gradle build output directory
-build
-bin
