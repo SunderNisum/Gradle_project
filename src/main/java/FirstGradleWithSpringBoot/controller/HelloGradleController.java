@@ -13,6 +13,7 @@ public class HelloGradleController {
 	 * This is newly added from the github
 	 * This should be going through merge
 	 * This is should be reset with head
+	 * This should be going through branch
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
