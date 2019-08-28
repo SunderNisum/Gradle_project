@@ -17,6 +17,8 @@ public class HelloGradleController {
 	 * This is done with the UI
 	 * Need to check if this will be there
 	 * This is to use stash memory
+	 * This is used to not to check-in using .gitignore
+	 * Not quite sure, if it will display in bin
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
