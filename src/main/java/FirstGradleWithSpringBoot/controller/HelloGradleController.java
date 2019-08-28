@@ -14,6 +14,7 @@ public class HelloGradleController {
 	 * This should be going through merge
 	 * This is should be reset with head
 	 * This is done using master
+	 * This is done with the UI
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
