@@ -14,6 +14,7 @@ public class HelloGradleController {
 	 * This should be going through merge
 	 * This is should be reset with head
 	 * This should be going through branch
+	 * This should be going through branch oct2019
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
