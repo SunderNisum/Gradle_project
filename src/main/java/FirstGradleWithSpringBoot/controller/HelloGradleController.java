@@ -15,11 +15,8 @@ public class HelloGradleController {
 	 * This is should be reset with head
 	 * This is done using master
 	 * This is done with the UI
-<<<<<<< Updated upstream
 	 * Need to check if this will be there
-=======
 	 * I thought this will be there.
->>>>>>> Stashed changes
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
