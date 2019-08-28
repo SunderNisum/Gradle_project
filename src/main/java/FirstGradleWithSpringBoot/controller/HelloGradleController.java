@@ -16,6 +16,7 @@ public class HelloGradleController {
 	 * This should be going through branch
 	 * This should be going through branch oct2019
 	 * This is done using master
+	 * This is to utilize the gitignore
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
