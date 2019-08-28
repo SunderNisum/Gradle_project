@@ -16,7 +16,7 @@ public class HelloGradleController {
 	 * This is done using master
 	 * This is done with the UI
 	 * Need to check if this will be there
-	 * I thought this will be there.
+	 * This is to use stash memory
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
