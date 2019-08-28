@@ -15,6 +15,7 @@ public class HelloGradleController {
 	 * This is should be reset with head
 	 * This should be going through branch
 	 * This should be going through branch oct2019
+	 * This is through cloning of the GradleProject
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
