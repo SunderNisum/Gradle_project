@@ -1,0 +1,2 @@
+This project is used to have hands-on experience on the GIT.
+This is to add another line.
