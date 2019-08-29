@@ -1,3 +1,4 @@
 #Below is the command to ignore
 *.class
-
+build
+*.class

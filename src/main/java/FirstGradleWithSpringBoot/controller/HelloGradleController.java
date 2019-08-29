@@ -13,6 +13,10 @@ public class HelloGradleController {
 	 * This is newly added from the github
 	 * This should be going through merge
 	 * This is should be reset with head
+	 * This should be going through branch
+	 * This should be going through branch oct2019
+	 * This is done using master
+	 * This is to utilize the gitignore
 	 * This is done using master
 	 * This is to check if .class file will ignored
 	 * This is done with the UI
