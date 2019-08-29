@@ -17,6 +17,12 @@ public class HelloGradleController {
 	 * This should be going through branch oct2019
 	 * This is done using master
 	 * This is to utilize the gitignore
+	 * This is done using master
+	 * This is to check if .class file will ignored
+	 * This is done with the UI
+	 * Need to check if this will be there
+	 * This is used to not to check-in using .gitignore
+	 * Not quite sure, if it will display in bin
 	 */
 	@GetMapping("/anotherHello")
     public String sayHello() {
